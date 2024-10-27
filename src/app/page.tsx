@@ -1,6 +1,7 @@
 import React from 'react'
-import Nav from './Responsive/nav'
 import Hero from './hero'
+import Nav from './Component/page'
+
 
 const page = () => {
   return (
